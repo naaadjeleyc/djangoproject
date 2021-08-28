@@ -1,0 +1,865 @@
+[28/Aug/2021 01:17:40] INFO [django.utils.autoreload:637] Watching for file changes with StatReloader
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:315] Waiting for apps ready_event.
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:327] Apps ready_event triggered. Sending autoreload_started signal.
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:281] Watching dir /Users/charlotteakrashie/djangopro/todoDjango/todo_list/templates with glob **/*.
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:281] Watching dir /Users/charlotteakrashie/djangopro/todoDjango/locale with glob **/*.mo.
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:281] Watching dir /Users/charlotteakrashie/djangopro/todoDjango/todo_list/locale with glob **/*.mo.
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/exceptions.py first seen with mtime 1630105312.533058
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/mime/text.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/defaults.py first seen with mtime 1630105312.625267
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/graph.py first seen with mtime 1630105312.534053
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_hashlib.cpython-38-darwin.so first seen with mtime 1595261769.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/engine/statement_splitter.py first seen with mtime 1630105309.271018
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/topological_sort.py first seen with mtime 1630105312.621242
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/utils.py first seen with mtime 1630105312.550004
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/headerregistry.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/middleware/cache.py first seen with mtime 1630105312.589041
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/signing.py first seen with mtime 1630105312.47502
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/base.py first seen with mtime 1630105312.606435
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/exceptions.py first seen with mtime 1630105312.474071
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/argparse.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/utils.py first seen with mtime 1630105310.966522
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/pytz/tzfile.py first seen with mtime 1630105309.402689
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/distutils/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/pytz/__init__.py first seen with mtime 1630105309.401368
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/urllib/parse.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/others.py first seen with mtime 1630105309.274497
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ntpath.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/feedparser.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/query.py first seen with mtime 1630105312.546643
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/queues.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_bisect.cpython-38-darwin.so first seen with mtime 1595261767.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/handlers.py first seen with mtime 1630105312.469462
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/utils.py first seen with mtime 1630105312.470737
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/logging/config.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/renderers.py first seen with mtime 1630105312.56957
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/__init__.py first seen with mtime 1630105311.506196
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py first seen with mtime 1630105312.308262
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/loader.py first seen with mtime 1630105312.534556
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lzma.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/apps.py first seen with mtime 1630105310.959213
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/timezone.py first seen with mtime 1630105312.620963
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/fnmatch.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/fields.py first seen with mtime 1630105312.567059
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/converters.py first seen with mtime 1630105312.607116
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/utils.py first seen with mtime 1630105312.487357
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/exceptions.py first seen with mtime 1630105310.960162
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/migration.py first seen with mtime 1630105312.534917
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/hashers.py first seen with mtime 1630105311.512448
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/forms.py first seen with mtime 1630105312.567498
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_sha512.cpython-38-darwin.so first seen with mtime 1595261771.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loaders/__init__.py first seen with mtime 1630105312.598852
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/version.py first seen with mtime 1630105312.621782
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/conf/global_settings.py first seen with mtime 1630105310.805881
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/util.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/operations/fields.py first seen with mtime 1630105312.538924
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/stat.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/wsgiref/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/os.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/schema.py first seen with mtime 1630105312.515285
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/encoding.py first seen with mtime 1630105312.614159
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/__init__.py first seen with mtime 1630105312.487574
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/urls.py first seen with mtime 1630113269.887412
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/_policybase.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_datetime.cpython-38-darwin.so first seen with mtime 1595261769.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/security/sessions.py first seen with mtime 1630105312.4841
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/autoreload.py first seen with mtime 1630105312.609582
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/__init__.py first seen with mtime 1630105312.512519
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/checks.py first seen with mtime 1630105311.508118
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/unix_events.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/widgets.py first seen with mtime 1630105310.966936
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/constants.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_markupbase.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/ipv6.py first seen with mtime 1630105312.616973
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/inspect.py first seen with mtime 1630105312.616686
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/apps.py first seen with mtime 1630105311.654359
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/tokens.py first seen with mtime 1630105309.286194
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_urls.py first seen with mtime 1630105311.363643
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/base_subprocess.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/apps.py first seen with mtime 1630105454.7431571
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/urllib/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py first seen with mtime 1630105311.362627
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/executor.py first seen with mtime 1630105312.533498
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/decorators/csrf.py first seen with mtime 1630105312.627315
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/runners.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/utils.py first seen with mtime 1630105312.596757
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/gettext.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/views.py first seen with mtime 1630105312.471012
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/select.cpython-38-darwin.so first seen with mtime 1595261773.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/tokenize.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/constants.py first seen with mtime 1630105312.542591
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/lookups.py first seen with mtime 1630105312.54527
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/header.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/statistics.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/move.py first seen with mtime 1630105312.485832
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_bz2.cpython-38-darwin.so first seen with mtime 1595261767.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/templatetags/static.py first seen with mtime 1630105312.601973
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/management/__init__.py first seen with mtime 1630105312.47124
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/platform.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/servers/__init__.py first seen with mtime 1630105312.509489
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/iterators.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/related.py first seen with mtime 1630105312.555087
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/math.py first seen with mtime 1630105312.558036
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/views/main.py first seen with mtime 1630105311.367542
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/main.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/decorators.py first seen with mtime 1630105310.959896
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/exceptions.py first seen with mtime 1630105312.59449
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/library.py first seen with mtime 1630105312.59479
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/subqueries.py first seen with mtime 1630105312.563779
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/middleware/common.py first seen with mtime 1630105312.589604
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/filters.py first seen with mtime 1630105310.960642
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/autoreload.py first seen with mtime 1630105312.591759
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/codecs.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/scanner.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ssl.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/__init__.py first seen with mtime 1630105309.249615
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_bootlocale.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/views/__init__.py first seen with mtime 1630105311.364692
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/views.py first seen with mtime 1630111514.5393915
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/__init__.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/__init__.py first seen with mtime 1630105312.606016
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/admin.py first seen with mtime 1630105311.50668
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/wsgiref/simple_server.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/cache/__init__.py first seen with mtime 1630105312.476615
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/shortcuts.py first seen with mtime 1630105310.803045
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/middleware.py first seen with mtime 1630105312.154315
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/middleware/security.py first seen with mtime 1630105312.591181
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/dateformat.py first seen with mtime 1630105312.611442
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/regex_helper.py first seen with mtime 1630105312.619295
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/base_session.py first seen with mtime 1630105312.304611
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/message.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/__init__.py first seen with mtime 1630105312.473509
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/__init__.py first seen with mtime 1630105312.511182
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/temp.py first seen with mtime 1630105312.48648
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/files.py first seen with mtime 1630105312.552755
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/signals.py first seen with mtime 1630105312.549623
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/settings.py first seen with mtime 1630113458.075934
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/engine/filter_stack.py first seen with mtime 1630105309.26901
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/copyreg.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader.py first seen with mtime 1630105312.595054
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/asyncio.py first seen with mtime 1630105312.609207
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/distutils/version.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/manager.py first seen with mtime 1630105312.545592
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/_header_value_parser.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/random.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/copy.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/sites.py first seen with mtime 1630105310.96542
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/fields.py first seen with mtime 1630105311.654995
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/functools.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/templatetags/__init__.py first seen with mtime 1630105312.600503
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_random.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/related_lookups.py first seen with mtime 1630105312.556106
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/forms.py first seen with mtime 1630105311.655275
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/conf.py first seen with mtime 1630105312.606749
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/dates.py first seen with mtime 1630105312.612137
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/base.py first seen with mtime 1630105312.597294
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/serializers/json.py first seen with mtime 1630105312.507418
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/_base.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_pickle.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/constants.py first seen with mtime 1630105312.560381
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socket.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/base.py first seen with mtime 1630105312.488375
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/urllib/request.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/cache/backends/__init__.py first seen with mtime 1630105312.477332
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/__init__.py first seen with mtime 1630105312.468187
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/ddl_references.py first seen with mtime 1630105312.511523
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/formatter.py first seen with mtime 1630105309.255415
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/base.py first seen with mtime 1630105312.512898
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/cache.py first seen with mtime 1630105312.610299
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/posixpath.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/decorators/debug.py first seen with mtime 1630105312.627587
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/views/autocomplete.py first seen with mtime 1630105311.365775
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/__init__.py first seen with mtime 1630105312.484387
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/management/color.py first seen with mtime 1630105312.494631
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/format_helpers.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/defaultfilters.py first seen with mtime 1630105312.593371
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/middleware.py first seen with mtime 1630105312.306146
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/shutil.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/wsgi.py first seen with mtime 1630105312.476135
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_sitebuiltins.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/indexes.py first seen with mtime 1630105312.544905
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/generic/base.py first seen with mtime 1630105312.629106
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_queue.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/translation.py first seen with mtime 1630105312.482439
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_weakrefset.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/urls.py first seen with mtime 1630113033.0655422
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/machinery.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/logging/handlers.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/exception.py first seen with mtime 1630105312.488677
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/binascii.cpython-38-darwin.so first seen with mtime 1595261772.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/password_validation.py first seen with mtime 1630105311.514681
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/pytz/lazy.py first seen with mtime 1630105309.40205
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/__init__.py first seen with mtime 1630105312.556816
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/__init__.py first seen with mtime 1630105310.958332
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/asgi.py first seen with mtime 1630105312.4879
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py first seen with mtime 1630105312.59536
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/comparison.py first seen with mtime 1630105312.557221
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_socket.cpython-38-darwin.so first seen with mtime 1595261771.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/mixins.py first seen with mtime 1630105312.554068
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/operations/base.py first seen with mtime 1630105312.538609
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/lexer.py first seen with mtime 1630105309.25988
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/secrets.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/base.py first seen with mtime 1630105312.528259
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/management/__init__.py first seen with mtime 1630105312.492522
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/csrf.py first seen with mtime 1630105312.624427
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/apps/config.py first seen with mtime 1630105310.80369
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_lzma.cpython-38-darwin.so first seen with mtime 1595261769.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_sqlite3.cpython-38-darwin.so first seen with mtime 1595261771.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_modify.py first seen with mtime 1630105311.363172
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/exceptions.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/streams.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/options.py first seen with mtime 1630105312.546017
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/middleware.py first seen with mtime 1630105311.512845
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/aggregates.py first seen with mtime 1630105312.540657
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/base_tasks.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/utils.py first seen with mtime 1630105312.510875
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/static.py first seen with mtime 1630105312.625998
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/servers/basehttp.py first seen with mtime 1630105312.509786
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/deconstruct.py first seen with mtime 1630105312.612762
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/http.py first seen with mtime 1630105312.616385
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/async_case.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/options.py first seen with mtime 1630105310.962276
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/urllib/error.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/locks.py first seen with mtime 1630105312.485524
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/text.py first seen with mtime 1630105312.620273
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/__init__.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/enum.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/glob.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/uu.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/api.py first seen with mtime 1630105312.152376
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/models.py first seen with mtime 1630105312.306813
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/mime/base.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/urllib/response.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/base.py first seen with mtime 1630105312.541269
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/fcntl.cpython-38-darwin.so first seen with mtime 1595261772.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/module_loading.py first seen with mtime 1630105312.618716
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/linecache.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/__init__.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/introspection.py first seen with mtime 1630105312.514108
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/__init__.py first seen with mtime 1630105312.597003
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/hashlib.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/collections/abc.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/http/cookie.py first seen with mtime 1630105312.587191
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loaders/app_directories.py first seen with mtime 1630105312.599164
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/asgiref/__init__.py first seen with mtime 1630105310.6412
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/engine.py first seen with mtime 1630105312.594225
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/operations.py first seen with mtime 1630105312.514579
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/weakref.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_struct.cpython-38-darwin.so first seen with mtime 1595261771.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/contextvars.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/mime/nonmultipart.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/encodings/utf_8.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/translation/__init__.py first seen with mtime 1630105312.622478
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/quoprimime.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/grp.cpython-38-darwin.so first seen with mtime 1595261772.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/templatetags/i18n.py first seen with mtime 1630105312.601297
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/asgiref/compatibility.py first seen with mtime 1630105310.642331
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/where.py first seen with mtime 1630105312.56463
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/management/commands/__init__.py first seen with mtime 1630105312.471435
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/apps.py first seen with mtime 1630105312.152825
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/serializers/base.py first seen with mtime 1630105312.506732
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/staggered.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/django.py first seen with mtime 1630105312.597572
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/cache/backends/base.py first seen with mtime 1630105312.477787
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/admin.py first seen with mtime 1630105311.654077
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/__init__.py first seen with mtime 1630105371.0340376
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/unicodedata.cpython-38-darwin.so first seen with mtime 1595261773.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/result.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/__init__.py first seen with mtime 1630105312.624118
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/admin.py first seen with mtime 1630105454.7387333
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/base.py first seen with mtime 1630105312.484757
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/generic/__init__.py first seen with mtime 1630105312.628821
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/socketserver.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_decimal.cpython-38-darwin.so first seen with mtime 1595261769.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/abc.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/models.py first seen with mtime 1630105311.513728
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/tree.py first seen with mtime 1630105312.62151
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/backends.py first seen with mtime 1630105311.507412
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loaders/cached.py first seen with mtime 1630105312.599687
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/__init__.py first seen with mtime 1630105312.566143
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/subprocess.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/wsgiref/util.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/typing.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/difflib.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/datetime_safe.py first seen with mtime 1630105312.612404
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/types.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/schema.py first seen with mtime 1630105312.531751
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/operations.py first seen with mtime 1630105312.531317
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/debug.py first seen with mtime 1630105312.624956
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/operations/__init__.py first seen with mtime 1630105312.538194
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/generic/dates.py first seen with mtime 1630105312.629483
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/trsock.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/decimal.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/query.py first seen with mtime 1630105312.561631
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/__init__.py first seen with mtime 1630105312.527734
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/log.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_sha3.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/client.py first seen with mtime 1630105312.513168
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/views.py first seen with mtime 1630105311.655986
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/dis.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/__init__.py first seen with mtime 1630105312.532077
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/management/base.py first seen with mtime 1630105312.49375
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/_encoded_words.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/sre_compile.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/decorators.py first seen with mtime 1630105312.613131
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/logging/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/futures/thread.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/heapq.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py first seen with mtime 1630105312.592203
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/apps.py first seen with mtime 1630105312.304354
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/selectors.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/pickle.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/gzip.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/exceptions.py first seen with mtime 1630105312.304874
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/inspect.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/futures.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/sre_parse.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/related_descriptors.py first seen with mtime 1630105312.555744
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/constants.py first seen with mtime 1630105312.153247
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/state.py first seen with mtime 1630105312.536871
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/contentmanager.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/conf/__init__.py first seen with mtime 1630105310.805496
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/boundfield.py first seen with mtime 1630105312.566451
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/mime/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/dateparse.py first seen with mtime 1630105312.611863
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/templates.py first seen with mtime 1630105312.482176
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/http/request.py first seen with mtime 1630105312.588103
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/async_checks.py first seen with mtime 1630105312.480322
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/__init__.py first seen with mtime 1630105312.540253
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/formsets.py first seen with mtime 1630105312.568056
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/itercompat.py first seen with mtime 1630105312.617233
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/transports.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/client.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/operator.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/calendar.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/dispatch/dispatcher.py first seen with mtime 1630105312.565535
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/apps/registry.py first seen with mtime 1630105310.804659
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/middleware/csrf.py first seen with mtime 1630105312.58992
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_scproxy.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/functional.py first seen with mtime 1630105312.615419
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/log.py first seen with mtime 1630105312.618108
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/__init__.py first seen with mtime 1630105309.2723
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/util.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/__init__.py first seen with mtime 1630105310.958664
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/mail/utils.py first seen with mtime 1630105312.489959
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/database.py first seen with mtime 1630105312.480966
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/pprint.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/selector_events.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/wsgiref/handlers.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/apps.py first seen with mtime 1630105311.507032
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/suite.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/generator.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/http/multipartparser.py first seen with mtime 1630105312.587595
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/serializers/__init__.py first seen with mtime 1630105312.505889
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/zlib.cpython-38-darwin.so first seen with mtime 1595261774.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/proxy.py first seen with mtime 1630105312.554405
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/html/entities.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_compat_pickle.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/aligned_indent.py first seen with mtime 1630105309.273157
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/lorem_ipsum.py first seen with mtime 1630105312.618427
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/signal.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/_parseaddr.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/_os.py first seen with mtime 1630105312.608559
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/html/parser.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/registry.py first seen with mtime 1630105312.481924
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/conf/locale/__init__.py first seen with mtime 1630105310.808502
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/locks.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/sslproto.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/decorators/cache.py first seen with mtime 1630105312.626492
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/checks.py first seen with mtime 1630105310.959605
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/creation.py first seen with mtime 1630105312.513486
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/templatetags/cache.py first seen with mtime 1630105312.600828
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/model_checks.py first seen with mtime 1630105312.481539
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/protocols.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/right_margin.py first seen with mtime 1630105309.281859
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/i18n.py first seen with mtime 1630105312.625594
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/wsgiref/headers.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/__init__.py first seen with mtime 1630105311.653796
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/server.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/checks.py first seen with mtime 1630105312.468695
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_posixsubprocess.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/base_events.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/sre_constants.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/__init__.py first seen with mtime 1630105454.7352061
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/models.py first seen with mtime 1630105310.961696
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/mixins.py first seen with mtime 1630105312.558403
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/base_user.py first seen with mtime 1630105311.507764
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/tokens.py first seen with mtime 1630105311.515521
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/tempfile.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/middleware/__init__.py first seen with mtime 1630105312.588734
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/encodings/aliases.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/templatetags/log.py first seen with mtime 1630105311.36444
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/genericpath.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/storage/__init__.py first seen with mtime 1630105312.155788
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/__init__.py first seen with mtime 1630105312.559354
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_json.cpython-38-darwin.so first seen with mtime 1595261769.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/__init__.py first seen with mtime 1630105312.591501
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/actions.py first seen with mtime 1630105310.958949
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/json.py first seen with mtime 1630105312.553443
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/checks.py first seen with mtime 1630105311.654609
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/runner.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/utils.py first seen with mtime 1630105309.265702
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/mime/message.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/utils.py first seen with mtime 1630105312.608066
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/window.py first seen with mtime 1630105312.559032
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/caches.py first seen with mtime 1630105312.48069
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/cache/utils.py first seen with mtime 1630105312.476998
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/context.py first seen with mtime 1630105312.592521
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/hashable.py first seen with mtime 1630105312.615695
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/io.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_blake2.cpython-38-darwin.so first seen with mtime 1595261767.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/html/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/smartif.py first seen with mtime 1630105312.59634
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/defaulttags.py first seen with mtime 1630105312.593913
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loaders/filesystem.py first seen with mtime 1630105312.599939
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/errors.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/expressions.py first seen with mtime 1630105312.544447
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/paginator.py first seen with mtime 1630105312.474376
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/forms.py first seen with mtime 1630105311.511916
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/reverse_related.py first seen with mtime 1630105312.556452
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/datetime.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/mime/multipart.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/warnings.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/utils.py first seen with mtime 1630105312.512295
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/translation/reloader.py first seen with mtime 1630105312.622756
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/enums.py first seen with mtime 1630105312.543983
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/models.py first seen with mtime 1630105454.743903
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/exceptions.py first seen with mtime 1630105309.254235
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/generic/edit.py first seen with mtime 1630105312.630107
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/exceptions.py first seen with mtime 1630105312.60736
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/tasks.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/datetime.py first seen with mtime 1630105312.557706
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/keywords.py first seen with mtime 1630105309.25701
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sites/__init__.py first seen with mtime 1630105312.391481
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/management/commands/runserver.py first seen with mtime 1630105312.50227
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/base64mime.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/cgi.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/safestring.py first seen with mtime 1630105312.619624
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/quopri.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/connection.py first seen with mtime 1630105312.610572
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/hmac.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/numbers.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/http/__init__.py first seen with mtime 1630105312.586944
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/operations/special.py first seen with mtime 1630105312.539617
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/encodings/latin_1.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/asgiref/current_thread_executor.py first seen with mtime 1630105310.642787
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/signals.py first seen with mtime 1630105311.515115
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/concurrent/__init__.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/reindent.py first seen with mtime 1630105309.278902
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/sqlite3/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/decorators/common.py first seen with mtime 1630105312.627046
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/loader.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/tokens.py first seen with mtime 1630105309.262681
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/termios.cpython-38-darwin.so first seen with mtime 1595261773.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/duration.py first seen with mtime 1630105312.613742
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/mail/__init__.py first seen with mtime 1630105312.489336
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/reprlib.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/asgiref/local.py first seen with mtime 1630105310.643273
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/apps.py first seen with mtime 1630105312.46843
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/apps/__init__.py first seen with mtime 1630105310.80336
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/deletion.py first seen with mtime 1630105312.543696
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/policy.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/validators.py first seen with mtime 1630105311.51615
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/introspection.py first seen with mtime 1630105312.530802
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/functions/text.py first seen with mtime 1630105312.558743
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/management/__init__.py first seen with mtime 1630105311.762356
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/messages.py first seen with mtime 1630105312.481225
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/security/base.py first seen with mtime 1630105312.48355
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_uuid.cpython-38-darwin.so first seen with mtime 1595261772.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/urls/resolvers.py first seen with mtime 1630105312.607775
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/base_futures.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/urls.py first seen with mtime 1630105312.482708
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_contextvars.cpython-38-darwin.so first seen with mtime 1595261768.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/contextlib.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/conf/urls/__init__.py first seen with mtime 1630105310.957148
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/__init__.py first seen with mtime 1630105312.480066
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/uploadhandler.py first seen with mtime 1630105312.487076
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/asgiref/sync.py first seen with mtime 1630105310.644623
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/ipaddress.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_compression.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/bz2.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/pathlib.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/baseconv.py first seen with mtime 1630105312.609975
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/translation/trans_real.py first seen with mtime 1630105312.623729
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/__init__.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_ssl.cpython-38-darwin.so first seen with mtime 1595261771.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/re.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/storage.py first seen with mtime 1630105312.486191
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/models.py first seen with mtime 1630105312.569175
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/templatetags/tz.py first seen with mtime 1630105312.602259
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/templatetags/base.py first seen with mtime 1630105311.364136
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/security/csrf.py first seen with mtime 1630105312.483837
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/fractions.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/helpers.py first seen with mtime 1630105310.961413
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/crypto.py first seen with mtime 1630105312.610848
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/generic/list.py first seen with mtime 1630105312.630397
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/events.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/uploadedfile.py first seen with mtime 1630105312.486776
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/wsgi.py first seen with mtime 1630105312.488991
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/__init__.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/filters/output.py first seen with mtime 1630105309.2761
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/validation.py first seen with mtime 1630105312.515606
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/opcode.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/operations/models.py first seen with mtime 1630105312.539288
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/engine/grouping.py first seen with mtime 1630105309.269925
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/mimetypes.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_heapq.cpython-38-darwin.so first seen with mtime 1595261769.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/token.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_asyncio.cpython-38-darwin.so first seen with mtime 1595261767.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/signals.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/client.py first seen with mtime 1630105312.528532
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/__init__.py first seen with mtime 1630105312.510133
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/importlib/abc.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/utils.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/pytz/exceptions.py first seen with mtime 1630105309.401763
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/datastructures.py first seen with mtime 1630105312.611149
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/base/features.py first seen with mtime 1630105312.513811
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/deprecation.py first seen with mtime 1630105312.61345
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/traceback.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/keyword.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/signals.py first seen with mtime 1630105312.474685
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/signals.py first seen with mtime 1630105312.511874
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/pytz/tzinfo.py first seen with mtime 1630105309.403016
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/templatetags/l10n.py first seen with mtime 1630105312.601579
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/mail/message.py first seen with mtime 1630105312.489693
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/query_utils.py first seen with mtime 1630105312.549062
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/__init__.py first seen with mtime 1630105312.608287
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_opcode.cpython-38-darwin.so first seen with mtime 1595261770.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/base64.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/formats.py first seen with mtime 1630105312.614956
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/backends/__init__.py first seen with mtime 1630105312.307736
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/string.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/management/commands/__init__.py first seen with mtime 1630105312.496023
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/constraints.py first seen with mtime 1630105312.543146
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/response.py first seen with mtime 1630105312.595942
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/decorators/__init__.py first seen with mtime 1630105312.626222
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/management/commands/runserver.py first seen with mtime 1630105312.472348
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/timesince.py first seen with mtime 1630105312.620662
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/__init__.py first seen with mtime 1630105312.151934
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/pkgutil.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/validators.py first seen with mtime 1630105312.475655
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/dispatch/__init__.py first seen with mtime 1630105312.565097
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/transaction.py first seen with mtime 1630105312.510429
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loaders/base.py first seen with mtime 1630105312.599423
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/collections/__init__.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/sql.py first seen with mtime 1630105309.261301
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/_collections_abc.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/decoder.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/utils.py first seen with mtime 1630105312.569892
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/serializers/python.py first seen with mtime 1630105312.508522
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/checks/security/__init__.py first seen with mtime 1630105312.483252
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/numberformat.py first seen with mtime 1630105312.618984
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/coroutines.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/cache/backends/locmem.py first seen with mtime 1630105312.479425
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/termcolors.py first seen with mtime 1630105312.619919
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/http/cookies.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/files/images.py first seen with mtime 1630105312.485096
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/features.py first seen with mtime 1630105312.530175
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/struct.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/sqlite3/dbapi2.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sites/shortcuts.py first seen with mtime 1630105312.393971
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/operations/utils.py first seen with mtime 1630105312.539905
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/views/generic/detail.py first seen with mtime 1630105312.629822
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/encoders.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/cli.py first seen with mtime 1630105309.251958
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/cache/backends/filebased.py first seen with mtime 1630105312.47898
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/datastructures.py first seen with mtime 1630105312.560842
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/__init__.py first seen with mtime 1630105310.802382
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/sqlparse/engine/__init__.py first seen with mtime 1630105309.26794
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/utils/html.py first seen with mtime 1630105312.61602
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/management/__init__.py first seen with mtime 1630105311.647623
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/bisect.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/utils.py first seen with mtime 1630105312.537187
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/encodings/__init__.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/unittest/case.py first seen with mtime 1595261514.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/staticfiles/finders.py first seen with mtime 1630105312.469001
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/queue.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/uuid.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/http/response.py first seen with mtime 1630105312.588488
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/getpass.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/backends/sqlite3/creation.py first seen with mtime 1630105312.529484
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/fields/__init__.py first seen with mtime 1630105312.550728
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/templatetags/__init__.py first seen with mtime 1630105311.362219
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/parser.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/threading.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/asyncio/subprocess.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/manage.py first seen with mtime 1630105371.0333157
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/__init__.py first seen with mtime 1630105312.304048
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/_statistics.cpython-38-darwin.so first seen with mtime 1595261771.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/models.py first seen with mtime 1630105311.65556
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload/math.cpython-38-darwin.so first seen with mtime 1595261772.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/email/charset.py first seen with mtime 1595261513.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/locale.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/forms/widgets.py first seen with mtime 1630105312.570362
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/templates/home.html first seen with mtime 1630113269.8877144
+[28/Aug/2021 01:17:40] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/templates/base.html first seen with mtime 1630110749.3811944
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py first seen with mtime 1630105311.649507
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/migrations/0001_initial.py first seen with mtime 1630105311.243785
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py first seen with mtime 1630105311.651197
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/wsgi.py first seen with mtime 1630105371.040445
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/migrations/__init__.py first seen with mtime 1630105312.388909
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py first seen with mtime 1630105311.651817
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py first seen with mtime 1630105311.652415
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/backends/db.py first seen with mtime 1630105312.309137
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py first seen with mtime 1630105311.649184
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/stringprep.py first seen with mtime 1595261510.0
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0001_initial.py first seen with mtime 1630105311.648916
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/middleware/clickjacking.py first seen with mtime 1630105312.589311
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/encodings/idna.py first seen with mtime 1595261512.0
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/migrations/__init__.py first seen with mtime 1630105311.244705
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/migrations/__init__.py first seen with mtime 1630105311.763974
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py first seen with mtime 1630105311.650816
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/migrations/recorder.py first seen with mtime 1630105312.535913
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/migrations/0001_initial.py first seen with mtime 1630105312.388766
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/__init__.py first seen with mtime 1630105311.652599
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/migrations/0002_remove_content_type_name.py first seen with mtime 1630105311.76378
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0011_update_proxy_permissions.py first seen with mtime 1630105311.652133
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/migrations/0003_logentry_add_action_flag_choices.py first seen with mtime 1630105311.24447
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/admin/migrations/0002_logentry_remove_auto_add.py first seen with mtime 1630105311.244139
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py first seen with mtime 1630105311.649791
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/contenttypes/migrations/0001_initial.py first seen with mtime 1630105311.763426
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py first seen with mtime 1630105311.650488
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/todoDjango/todo_list/migrations/__init__.py first seen with mtime 1630105454.7456474
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py first seen with mtime 1630105311.65154
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/db/models/sql/compiler.py first seen with mtime 1630105312.55996
+[28/Aug/2021 01:17:41] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py first seen with mtime 1630105311.650103
+[28/Aug/2021 01:17:43] DEBUG [django.template:869] Exception while resolving variable 'base' in template 'home.html'.
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [base] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x10ffe2a60>>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x11009e8b0>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x11007c070>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x11006c1f0>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}]
+[28/Aug/2021 01:17:43] ERROR [django.request:224] Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/charlotteakrashie/djangopro/todoDjango/todo_list/views.py", line 4, in home
+    return render(request, 'home.html',{})
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 117, in get_parent
+    raise TemplateSyntaxError(error_msg)
+django.template.exceptions.TemplateSyntaxError: Invalid template name in 'extends' tag: ''. Got this from the 'base.html' variable.
+[28/Aug/2021 01:17:43] ERROR [django.server:161] "GET / HTTP/1.1" 500 145
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/context_processors.py first seen with mtime 1630105312.153702
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/storage/fallback.py first seen with mtime 1630105312.157091
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/auth/context_processors.py first seen with mtime 1630105311.510503
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/storage/cookie.py first seen with mtime 1630105312.15668
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/storage/session.py first seen with mtime 1630105312.15755
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/utils.py first seen with mtime 1630105312.15475
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/messages/storage/base.py first seen with mtime 1630105312.156227
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/context_processors.py first seen with mtime 1630105312.592811
+[28/Aug/2021 01:17:43] DEBUG [django.utils.autoreload:379] File /Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/contrib/sessions/serializers.py first seen with mtime 1630105312.307332
+[28/Aug/2021 01:17:48] DEBUG [django.template:869] Exception while resolving variable 'base' in template 'home.html'.
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [base] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x110093820>>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x110093940>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x110024280>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x10fff3070>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}]
+[28/Aug/2021 01:17:48] ERROR [django.request:224] Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/charlotteakrashie/djangopro/todoDjango/todo_list/views.py", line 4, in home
+    return render(request, 'home.html',{})
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 117, in get_parent
+    raise TemplateSyntaxError(error_msg)
+django.template.exceptions.TemplateSyntaxError: Invalid template name in 'extends' tag: ''. Got this from the 'base.html' variable.
+[28/Aug/2021 01:17:48] ERROR [django.server:161] "GET / HTTP/1.1" 500 145
+[28/Aug/2021 01:17:58] DEBUG [django.template:869] Exception while resolving variable 'base' in template 'home.html'.
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [base] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x110093700>>, 'request': <WSGIRequest: GET '/'>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x110093820>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x1100547c0>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x110024700>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}]
+[28/Aug/2021 01:17:58] ERROR [django.request:224] Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/charlotteakrashie/djangopro/todoDjango/todo_list/views.py", line 4, in home
+    return render(request, 'home.html',{})
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 117, in get_parent
+    raise TemplateSyntaxError(error_msg)
+django.template.exceptions.TemplateSyntaxError: Invalid template name in 'extends' tag: ''. Got this from the 'base.html' variable.
+[28/Aug/2021 01:17:58] ERROR [django.server:161] "GET / HTTP/1.1" 500 145
+[28/Aug/2021 01:17:58] DEBUG [django.template:869] Exception while resolving variable 'base' in template 'home.html'.
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 829, in _resolve_lookup
+    current = current[bit]
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 835, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'base'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 848, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [base] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x1100935e0>>, 'request': <WSGIRequest: GET '/favicon.ico'>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x110093700>>, 'perms': <django.contrib.auth.context_processors.PermWrapper object at 0x1100549a0>, 'messages': <django.contrib.messages.storage.fallback.FallbackStorage object at 0x110054370>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}]
+[28/Aug/2021 01:17:58] ERROR [django.request:224] Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/charlotteakrashie/djangopro/todoDjango/todo_list/views.py", line 4, in home
+    return render(request, 'home.html',{})
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 127, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/charlotteakrashie/djangopro/django/lib/python3.8/site-packages/django/template/loader_tags.py", line 117, in get_parent
+    raise TemplateSyntaxError(error_msg)
+django.template.exceptions.TemplateSyntaxError: Invalid template name in 'extends' tag: ''. Got this from the 'base.html' variable.
+[28/Aug/2021 01:17:58] ERROR [django.server:161] "GET /favicon.ico HTTP/1.1" 500 145
+[28/Aug/2021 01:19:06] DEBUG [django.utils.autoreload:382] File /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/settings.py previous mtime: 1630113458.075934, current mtime: 1630113545.8343809
+[28/Aug/2021 01:19:06] DEBUG [django.utils.autoreload:356] /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/settings.py notified as changed. Signal results: [(<function template_changed at 0x10f431a60>, None), (<function translation_file_changed at 0x10fd60670>, None)].
+[28/Aug/2021 01:19:06] INFO [django.utils.autoreload:251] /Users/charlotteakrashie/djangopro/todoDjango/todoDjango/settings.py changed, reloading.

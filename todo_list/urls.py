@@ -1,7 +1,8 @@
 
-from django.urls import path
-from . import views
+from django.conf.urls import include, url
+
+from todo_list import views
 
 urlpatterns = [
-    path('', views.home, name="home")
+    url('', views.home, name='home'),
 ]
