@@ -7,7 +7,7 @@
         <button type=" button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
             <small><sup></sup></small>
         </button>
-        {{message}}
+        <center>{{messages}}</center>
     </div>
     {% endfor %}
 {% endif %}
@@ -18,7 +18,7 @@
         <tr>
             <td>{{ things.item }}</td>
             <td><center>{{ things.completed}}</center></td> 
-            <td><center>Delete</center></td>
+            <td><center><a href="{% url 'delete' things.id %}">Delete</a></center></td>
         </tr>
     </table>
     {% endfor %} 
